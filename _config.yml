@@ -1,15 +1,16 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Data Visualization Blog
+author: Sathvik Palakurty
+email: sathvik.palakurty@miami.edu
 description: > # this means to ignore newlines until "twitter_username:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+Welcome to my semester of data visualization learning.
+For my Data Visualization Studio at the University of Miami 
+(taught by Alberto Cairo), each member of the class keeps a weekly blog of progress!
+The aim of the class is to generate a compelling visualization and 
+publish with the Google News Lab.
 
 # social links
-twitter_username: jekyllrb
-github_username:  jekyll
-rss: rss
+twitter_username: sathvikpal
+github_username:  sathvikpal
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
