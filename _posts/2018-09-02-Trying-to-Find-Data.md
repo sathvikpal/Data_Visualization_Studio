@@ -16,7 +16,11 @@ The challenge this week was making my dataset. I originally thought that I would
 ![Google](https://raw.githubusercontent.com/sathvikpal/Data_Visualization_Studio/master/assets/Trying-to-Find-Data/map_google.png)
 
 I would Google Maps the school and click immediately adjacent to the pin. Then copy and paste the data into a spread sheet. After doing about five schools, I realized that there had to be a better way? There could have been an applet that let me input a list of locations and I could just choose the result on google maps for each. Then, an aggregate list of longitude and latitudes could be spit out. I couldn't find such an applet, but I definitely want to make one in the future.
-I searched around and found the the list of Miami-Dade Schools and their longitude and latitudes the Open Data Portal run by the Miami-Dade County website. The data came in a 'csv' format. 
+I searched around and found the the list of Miami-Dade Schools and their longitude and latitudes the Open Data Portal run by the Miami-Dade County website. Allows you to explore the data with their online tools before you download.
+
+![map](https://raw.githubusercontent.com/sathvikpal/Data_Visualization_Studio/master/assets/Trying-to-Find-Data/map.png)
+
+After playing with the map for a bit, I downloaded the data as a 'csv' which means that the entries are separated by commas. 
 
 ```
 library(readr)
