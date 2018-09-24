@@ -42,7 +42,6 @@ header_pages:
 
 # Build settings
 theme: minima
-baseurl: /Data_Visualization_Studio
 
 plugins:
  - jekyll-feed
