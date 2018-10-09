@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Burden of Source-Checking"
-categories: How_Charts_Lie
+categories: Readings
 ---
 
 How Charts Lie goes on to talk about the Garbage In, Garbage Out principle. Cairo uses a map of Europe showing the origin of rock bands. Since I have never been a rock fan, it surprised me that there was a preconceived notion that most of the rock bands originate in the Scandinavian countries. While the details of specific bands did not stick in my head, the main take-away from Cairo's discussion was that he does his research before sending a map to his friends. He makes the argument that the average chart reader should also make sure that the source of a chart is not garbage.
