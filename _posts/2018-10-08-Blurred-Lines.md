@@ -14,7 +14,7 @@ I agree that in a data visualization, the data should come through strongly in t
 
 Tufte goes on to place an emphasis on the 'Data-Ink" a metric that he has made to praise graphics that use every drop of ink to convey data, that is, that nothing can be erased without loosing data. Consider the ECG below. I concede that there is no drop of ink that can be erased without loosing data ... but is this the most economical way to convey the information if the person on the other end is not an ECG reader?
 
-![ecg](https://raw.githubusercontent.com/sathvikpal/Data_Visualization_Studio/master/assets/Blurred-Lines/graph_with_lines)
+![ecg](https://raw.githubusercontent.com/sathvikpal/Data_Visualization_Studio/master/assets/Blurred-Lines/graph_with_lines.png)
 
 My answer is NO. Most of this data is useless to me. I am not an ECG specialist so what is the point of conveying all of that information to me? I do have to admit that the place where this graphic was published makes it appropriate to represent all the data (it was published in a manual on how to read ECGs). However, the rule that Tufte puts forth falls apart when taking into account the diversity of readers. I would represent this in a cyclical manner to show the periodicity. Then I would outline the different signals and how it corresponds to the flow of blood / contraction of the heart. Yes. That would require me to decrease the Data-Ink but is that so bad?
 
