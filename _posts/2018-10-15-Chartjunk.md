@@ -8,11 +8,16 @@ The title of this Tufte chapter is apt in that there are many graphs in science 
 
 1. Do not use textures to denote categories
 
+![texture](https://raw.githubusercontent.com/sathvikpal/Data_Visualization_Studio/master/assets/Chartjunk/texture.png)
+
 Tufte gives examples of how textures to denote categories can look messy. I have always seen the option in illustrator to add 'texture' to an object but since most of my work is designed to be viewed on twitter/computer, I always use color. Tufte gives examples of textures that can be visually jarring. These patterns confuse the reader and detract form the message of the graphic.
 
 Later on in the chapter, Tufte lists scientific journals where people use these vibration-like textures the most. I definitely have seen many of the graphs with patterns mainly in the older papers.
 
 2. Do not use grids on graphics.
+
+![Before](https://raw.githubusercontent.com/sathvikpal/Data_Visualization_Studio/master/assets/Chartjunk/before.png)
+![After](https://raw.githubusercontent.com/sathvikpal/Data_Visualization_Studio/master/assets/Chartjunk/after.png)
 
 This goes back to Tufte's theories on data-ink ratio. He states that you should keep the background grid minimal and I really agree. The other day when I was helping my Miami-Dade College students generate graphs for their scientific poster, I had the opportunity to put this rule into action!
 
