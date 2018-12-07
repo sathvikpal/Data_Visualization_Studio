@@ -9,7 +9,7 @@ I am used to reading documentation for various packages in R. In the R terminal,
 
 Some child psychologists suggest that the reason why young children misbehave in their 2nd year is because they know what they want to say but are unable to form the syntax to represent. When learning the basics of HTML, this is how I felt. I knew that I wanted a certain scroll behavior, and I wanted the user to have interactivity, so I immediately went to the Google to search for ways to obtain this end product. Look at the below code and imagine not understanding not only the syntax.
 
-![comparison](https://raw.githubusercontent.com/sathvikpal/Data_Visualization_Studio/master/assets/Terrible-2s/unreadable-code.png)
+![comparison](https://github.com/sathvikpal/Data_Visualization_Studio/blob/master/assets/Terrible-2s/unreadable_code.png?raw=true)
 
 When I jumped the gun, these are questions that I found myself googling.
 1. What is CSS?
