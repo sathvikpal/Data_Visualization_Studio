@@ -100,4 +100,4 @@ This was my end result. Even though I just followed the blog post to the tea, it
 
 <video controls loop>
   <source src="https://github.com/sathvikpal/Data_Visualization_Studio/blob/master/assets/ScrollMagic/Screen%20Recording%202018-12-08%20at%207.26.25%20PM.mov?raw=true" type="video/mp4">
-  <video>
+  </video>
