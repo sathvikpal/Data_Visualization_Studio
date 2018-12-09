@@ -84,7 +84,7 @@ The first step of ScrollMagic is to create a controller object wrapped in jQuery
 ```
 $(function() {
     var controller = new ScrollMagic.Controller();
-});
+}
 var blockTween = new TweenMax.to('#block', 1.5, {
     backgroundColor: 'red'
 });
@@ -94,10 +94,12 @@ var containerScene = new ScrollMagic.Scene({
 .setTween(blockTween)
 .addIndicators()
 .addTo(controller);
+);
+
 ```
 
 This was my end result. Even though I just followed the blog post to the tea, it is always nice when something actually works.
 
-<video controls loop>
+<video width="320" height="240" controls loop>
   <source src="https://github.com/sathvikpal/Data_Visualization_Studio/blob/master/assets/ScrollMagic/Screen%20Recording%202018-12-08%20at%207.26.25%20PM.mov?raw=true" type="video/mp4">
   </video>
